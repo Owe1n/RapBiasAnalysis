@@ -1,0 +1,6 @@
+[submodule "RapGeniusScrapper"]
+	path = RapGeniusScrapper
+	url = https://github.com/Owe1n/RapGeniusScrapper
+[submodule "BillboardScrapper"]
+	path = BillboardScrapper
+	url = https://github.com/Owe1n/BillboardScrapper
