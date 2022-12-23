@@ -4,3 +4,6 @@
 [submodule "BillboardScrapper"]
 	path = BillboardScrapper
 	url = https://github.com/Owe1n/BillboardScrapper
+[submodule "GloVe"]
+	path = GloVe
+	url = https://github.com/Owe1n/GloVe
