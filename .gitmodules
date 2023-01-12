@@ -7,3 +7,6 @@
 [submodule "GloVe"]
 	path = GloVe
 	url = https://github.com/Owe1n/GloVe
+[submodule "EmbeddingDynamicStereotypes"]
+	path = EmbeddingDynamicStereotypes
+	url = https://github.com/Owe1n/EmbeddingDynamicStereotypes.git
