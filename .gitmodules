@@ -10,3 +10,6 @@
 [submodule "EmbeddingDynamicStereotypes"]
 	path = EmbeddingDynamicStereotypes
 	url = https://github.com/Owe1n/EmbeddingDynamicStereotypes.git
+[submodule "NewYorkTimeScrapper"]
+	path = NewYorkTimeScrapper
+	url = https://github.com/Owe1n/NewYorkTimeScrapper.git
